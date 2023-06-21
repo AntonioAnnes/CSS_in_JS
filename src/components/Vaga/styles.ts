@@ -8,13 +8,13 @@ export const VagaLiGeral = styled.li`
   transition: all ease 0.3s;
   border-radius: 8px;
 
-  hover: {
+  &:hover {
     border-color: #a7727d;
     background-color: #f9f5e7;
     color: #a7727d;
   }
 
-    hover: a {
+    &:hover a {
       border-color: #a7727d;
       background-color: #f9f5e7;
       color: #a7727d;
